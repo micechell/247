@@ -20,16 +20,16 @@ client.on('ready', async () => {
         .setApplicationId('534203414247112723')
         .setType('LISTENING')
         .setURL(`https://www.twitch.tv/#`)
-        .setDetails(`Perfect x Happier`)
-        .setName(`Perfect x Happier`)
-        .setState(`Song by: Ed Sheeran - Olivia Rodrigo`)
+        .setDetails(`Happier`)
+        .setName(`Happier`)
+        .setState(`Song by: Ed Sheeran`)
         .setParty({
             max: 1,
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1223784130890698863/ezgif-4-14d2d47986.gif?ex=661b1cc9&is=6608a7c9&hm=5ef4abca93b2a7eafc82778aff83c11960379ccff42de7a851d33eb03b297a3c&`)
-        .setAssetsLargeText(`🎵 Now Playing: Perfect x Happier`)
+        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1223856030140862464/c2ad2bbfd90ba615e8a49ef463c8939a-ezgif.com-crop.gif?ex=661b5fbf&is=6608eabf&hm=4549e2ab952ac79c6b5329b2288e8a1a6b2a70adfb7b8bbbee071eb69d6e4165&`)
+        .setAssetsLargeText(`🎵 Now Playing: Happier`)
 
     client.user.setStatus("dnd");
   
