@@ -28,7 +28,7 @@ client.on('ready', async () => {
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:https:attachments/1049291215750844448/1223784130890698863/ezgif-4-14d2d47986.gif?ex=661b1cc9&is=6608a7c9&hm=5ef4abca93b2a7eafc82778aff83c11960379ccff42de7a851d33eb03b297a3c&`)
+        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1223784130890698863/ezgif-4-14d2d47986.gif?ex=661b1cc9&is=6608a7c9&hm=5ef4abca93b2a7eafc82778aff83c11960379ccff42de7a851d33eb03b297a3c&`)
         .setAssetsLargeText(`🎵 Now Playing: Perfect x Happier`)
 
     client.user.setStatus("dnd");
