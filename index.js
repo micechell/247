@@ -20,16 +20,16 @@ client.on('ready', async () => {
         .setApplicationId('534203414247112723')
         .setType('LISTENING')
         .setURL(`https://www.twitch.tv/#`)
-        .setDetails(`Happier`)
-        .setName(`Happier`)
-        .setState(`Song by: Ed Sheeran`)
+        .setDetails(`drunk text`)
+        .setName(`drunk text`)
+        .setState(`Song by: Henry Moodie`)
         .setParty({
             max: 1,
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1223856030140862464/c2ad2bbfd90ba615e8a49ef463c8939a-ezgif.com-crop.gif?ex=661b5fbf&is=6608eabf&hm=4549e2ab952ac79c6b5329b2288e8a1a6b2a70adfb7b8bbbee071eb69d6e4165&`)
-        .setAssetsLargeText(`🎵 Now Playing: Happier`)
+        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1223880656271179859/ssstik.io_1711865460864-ezgif.com-crop.gif?ex=661b76af&is=660901af&hm=07d87210c7588f97a62069740be3e513ed6e52c0bb4ae2559cce1331c5e0aec2&`)
+        .setAssetsLargeText(`🎵 Now Playing: drunk text`)
 
     client.user.setStatus("dnd");
   
