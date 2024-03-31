@@ -28,7 +28,7 @@ client.on('ready', async () => {
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1223616362887512124/y2mate.is_-_Perfect_x_happier_-_Ed_Sheeran_x_Olivia_orange_lyric_edit_edits_overlay_shorts_lyrics-QsOPpkFYuTQ-720p-1711801854-ezgif.com-crop.gif?ex=661a808a&is=66080b8a&hm=66bbd64168bc079b34110a7a0836970e7d9726d7cbcbf5694ccc0fb000215c0d&`)
+        .setAssetsLargeImage(`mp:https:attachments/1049291215750844448/1223784130890698863/ezgif-4-14d2d47986.gif?ex=661b1cc9&is=6608a7c9&hm=5ef4abca93b2a7eafc82778aff83c11960379ccff42de7a851d33eb03b297a3c&`)
         .setAssetsLargeText(`🎵 Now Playing: Perfect x Happier`)
 
     client.user.setStatus("dnd");
