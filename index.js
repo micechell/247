@@ -20,16 +20,16 @@ client.on('ready', async () => {
         .setApplicationId('534203414247112723')
         .setType('LISTENING')
         .setURL(`https://www.twitch.tv/#`)
-        .setDetails(`drunk text`)
-        .setName(`drunk text`)
-        .setState(`Song by: Henry Moodie`)
+        .setDetails(`I'm Not The Only One`)
+        .setName(`I'm Not The Only One`)
+        .setState(`Song by: Sam Smith`)
         .setParty({
             max: 1,
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1223880656271179859/ssstik.io_1711865460864-ezgif.com-crop.gif?ex=661b76af&is=660901af&hm=07d87210c7588f97a62069740be3e513ed6e52c0bb4ae2559cce1331c5e0aec2&`)
-        .setAssetsLargeText(`🎵 Now Playing: drunk text`)
+        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1228279211358289960/Im_not_the_only_one_overlay_lyrics_shots-ezgif.com-crop.gif?ex=662b7728&is=66190228&hm=67e2accf799a2f81e4312cd98365125d946468d0ef924b36d0ba4536a3a48477&`)
+        .setAssetsLargeText(`🎵 Now Playing: I'm Not The Only One`)
 
     client.user.setStatus("dnd");
   
