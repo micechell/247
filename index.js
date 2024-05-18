@@ -20,16 +20,16 @@ client.on('ready', async () => {
         .setApplicationId('534203414247112723')
         .setType('LISTENING')
         .setURL(`https://www.twitch.tv/#`)
-        .setDetails(`I'm Not The Only One`)
-        .setName(`I'm Not The Only One`)
-        .setState(`Song by: Sam Smith`)
+        .setDetails(`Every moment of you`)
+        .setName(`Every moment of you`)
+        .setState(`Song by: Sung Si Kyung`)
         .setParty({
             max: 1,
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1228279211358289960/Im_not_the_only_one_overlay_lyrics_shots-ezgif.com-crop.gif?ex=662b7728&is=66190228&hm=67e2accf799a2f81e4312cd98365125d946468d0ef924b36d0ba4536a3a48477&`)
-        .setAssetsLargeText(`🎵 Now Playing: I'm Not The Only One`)
+        .setAssetsLargeImage(`mp:attachments/1048198608144584730/1241322647195881502/lv_7348491172878372098_20240518161840_online-video-cutter.com_1_1.gif?`)
+        .setAssetsLargeText(`🎵 Now Playing: Every moment of you`)
 
     client.user.setStatus("dnd");
   
