@@ -20,9 +20,9 @@ client.on('ready', async () => {
         .setApplicationId('534203414247112723')
         .setType('LISTENING')
         .setURL(`https://www.twitch.tv/#`)
-        .setDetails(`Every moment of you`)
-        .setName(`Every moment of you`)
-        .setState(`Song by: Sung Si Kyung`)
+        .setDetails(`drunk text`)
+        .setName(`drunk text`)
+        .setState(`Song by: Henry Moodie`)
         .setParty({
             max: 1,
             current: 1,
