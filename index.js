@@ -28,7 +28,7 @@ client.on('ready', async () => {
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1264809798629724180/lv_0_20240722111916.gif?ex=669f396b&is=669de7eb&hm=0ccc88c36f055762d4ac723affe3c6c0180c116392877a50a540939ed6945f76&`)
+        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1264884283445612647/lv_0_20240722165041_1.gif?ex=669f7ec9&is=669e2d49&hm=1ccbc8cca7caa2992b80a1ea5842b84b3bfa7713750a974fac237124eeb1384c&`)
         .setAssetsLargeText(`🎵 Now Playing: drunk text`)
 
     client.user.setStatus("dnd");
