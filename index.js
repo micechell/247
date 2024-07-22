@@ -28,8 +28,8 @@ client.on('ready', async () => {
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:attachments/1048198608144584730/1241322647195881502/lv_7348491172878372098_20240518161840_online-video-cutter.com_1_1.gif?ex=6649c74d&is=664875cd&hm=9193e3339a9b325690cee2ff60f295741dffd38d38a4364fa513fd6ed81d0436&`)
-        .setAssetsLargeText(`🎵 Now Playing: Every moment of you`)
+        .setAssetsLargeImage(`mp:attachments/s/MIWMGOa5dP5lD1eZZShN`)
+        .setAssetsLargeText(`🎵 Now Playing: drunk text`)
 
     client.user.setStatus("dnd");
   
