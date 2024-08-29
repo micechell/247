@@ -28,7 +28,7 @@ client.on('ready', async () => {
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:gallery/71172319/Premier-League-Clubs-Logo-Animation-20182019-P2/modules/414925801`)
+        .setAssetsLargeImage(`mp:attachments/1048122559905927178/1278652447270764574/InShot_20240829_161739420.gif?ex=66d19563&is=66d043e3&hm=9b0778a4e177cfb6aebd9ca4cfad58be2a1bc4db194848842bd4bdbc84a0a32c&`)
         .setAssetsLargeText(`😈 The Red Devils`)
 
     client.user.setStatus("dnd");
