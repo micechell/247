@@ -18,18 +18,18 @@ client.on('ready', async () => {
 
     const rpc = new Discord.RichPresence()
         .setApplicationId('534203414247112723')
-        .setType('LISTENING')
+        .setType('WATCHING')
         .setURL(`https://www.twitch.tv/#`)
-        .setDetails(`drunk text`)
-        .setName(`drunk text`)
-        .setState(`Song by: Henry Moodie`)
+        .setDetails(`Manchester United FC`)
+        .setName(`Manchester United FC`)
+        .setState(`Location: Old Trafford`)
         .setParty({
             max: 1,
             current: 1,
             id: Discord.getUUID(),
         })
-        .setAssetsLargeImage(`mp:attachments/1049291215750844448/1264884283445612647/lv_0_20240722165041_1.gif?ex=669f7ec9&is=669e2d49&hm=1ccbc8cca7caa2992b80a1ea5842b84b3bfa7713750a974fac237124eeb1384c&`)
-        .setAssetsLargeText(`🎵 Now Playing: drunk text`)
+        .setAssetsLargeImage(`mp:gallery/71172319/Premier-League-Clubs-Logo-Animation-20182019-P2/modules/414925801`)
+        .setAssetsLargeText(`😈 The Red Devils`)
 
     client.user.setStatus("dnd");
   
